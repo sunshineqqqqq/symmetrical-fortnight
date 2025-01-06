@@ -1,0 +1,53 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\astropy-iers-data-0.2024.9.2.0.33.23-py312haa95532_0",
+  "files": [
+    "Lib/site-packages/astropy_iers_data-0.2024.9.2.0.33.23.dist-info/INSTALLER",
+    "Lib/site-packages/astropy_iers_data-0.2024.9.2.0.33.23.dist-info/LICENSE.rst",
+    "Lib/site-packages/astropy_iers_data-0.2024.9.2.0.33.23.dist-info/METADATA",
+    "Lib/site-packages/astropy_iers_data-0.2024.9.2.0.33.23.dist-info/RECORD",
+    "Lib/site-packages/astropy_iers_data-0.2024.9.2.0.33.23.dist-info/REQUESTED",
+    "Lib/site-packages/astropy_iers_data-0.2024.9.2.0.33.23.dist-info/WHEEL",
+    "Lib/site-packages/astropy_iers_data-0.2024.9.2.0.33.23.dist-info/direct_url.json",
+    "Lib/site-packages/astropy_iers_data-0.2024.9.2.0.33.23.dist-info/top_level.txt",
+    "Lib/site-packages/astropy_iers_data/__init__.py",
+    "Lib/site-packages/astropy_iers_data/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/astropy_iers_data/__pycache__/_version.cpython-312.pyc",
+    "Lib/site-packages/astropy_iers_data/_version.py",
+    "Lib/site-packages/astropy_iers_data/data/Leap_Second.dat",
+    "Lib/site-packages/astropy_iers_data/data/README.rst",
+    "Lib/site-packages/astropy_iers_data/data/ReadMe.eopc04",
+    "Lib/site-packages/astropy_iers_data/data/ReadMe.finals2000A",
+    "Lib/site-packages/astropy_iers_data/data/eopc04.1962-now",
+    "Lib/site-packages/astropy_iers_data/data/finals2000A.all",
+    "Lib/site-packages/astropy_iers_data/tests/__init__.py",
+    "Lib/site-packages/astropy_iers_data/tests/__pycache__/__init__.cpython-312.pyc",
+    ".nonadmin"
+  ],
+  "fn": "astropy-iers-data-0.2024.9.2.0.33.23-py312haa95532_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\astropy-iers-data-0.2024.9.2.0.33.23-py312haa95532_0",
+    "type": 1
+  },
+  "md5": "f41da76f5c7009d1a78631c6b79136de",
+  "name": "astropy-iers-data",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\astropy-iers-data-0.2024.9.2.0.33.23-py312haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::astropy-iers-data==0.2024.9.2.0.33.23=py312haa95532_0[md5=f41da76f5c7009d1a78631c6b79136de]",
+  "sha256": "bd4db6868d1c42d081c3160d8652408f526295080e4ed77ba6081939e85ebffa",
+  "size": 1722313,
+  "subdir": "win-64",
+  "timestamp": 1726000769000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/astropy-iers-data-0.2024.9.2.0.33.23-py312haa95532_0.conda",
+  "version": "0.2024.9.2.0.33.23"
+}
